@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JPrintz7
+- 👀 I’m interested in  Large  language  models  design  and use cases 
+- 🌱 I’m currently learning prompt engineering 
+- 💞️ I’m looking to collaborate on application creation
+- 📫 How to reach me: Twitter @Dailyincomestreams
